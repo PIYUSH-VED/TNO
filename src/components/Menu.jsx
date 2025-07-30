@@ -18,7 +18,7 @@ const Menu = ({ cartItem, setCartItem }) => {
 
         {Cart.map((item) => (
           <div className="menu-item flex flex-col justify-between w-[300px] h-[400px] shadow-2xl border-2 border-white rounded-lg p-1 ">
-            <div className="bg-amber-500 h-3/6">
+            <div className="h-3/6">
               <img
                 src={item.icon}
                 alt={item.name}
