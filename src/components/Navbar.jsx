@@ -1,6 +1,6 @@
 import {Link,useNavigate} from 'react-router-dom'
 import { React,useState } from 'react';
-import "../styles/Navbar.css"; // Assuming you have a CSS file for styling
+import "../styles/navbar.css"; // Assuming you have a CSS file for styling
 // import {   } from "";
 const Navbar = ({isOpen, setIsOpen}) => {
   const [activeSection, setActiveSection] = useState("");
