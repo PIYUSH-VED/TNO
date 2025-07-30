@@ -1,0 +1,64 @@
+nav{
+    position: sticky;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(31, 29, 29);
+    height: 50px;
+    color: white;
+    z-index: 1000;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 60%;
+    gap: 5%;
+}
+.links button{
+    border-radius: 5px;
+    background-color: rgb(213, 118, 15);
+    max-height: 100em;
+    min-width: 5em;
+}
+.logo{
+    display: flex;
+    position: relative;
+    right: 5%;
+}
+.hamburger{
+    display: none;
+    font-size: 28px;
+    cursor: pointer;
+}
+@media screen and (max-width: 768px) {
+    .logo{
+        position: relative;
+        right: 0;
+        padding-left: 10px;
+    }
+    .links{
+        display: none;
+    flex-direction: column;
+    background-color: rgb(31, 29, 29);
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    padding: 12px 20px;
+     transition: max-height 0.3s ease;
+    }
+    .hamburger{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        display: block;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+    }
+    .links.show {
+  display: flex;
+}
+}

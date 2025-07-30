@@ -1,0 +1,218 @@
+[
+  {
+    "id": 0,
+    "name": "FALAFEL",
+    "icon": "/newimages/FALAFEL.jpg",
+    "price": 459,
+    "quantity": 1,
+    "category":"appetizers"
+  },
+  {
+    "id": 1,
+    "name": "ITALIAN POTATO WEDGES",
+    "icon": "/newimages/ITALIANPOTATOWEDGES.jpg",
+    "price": 410,
+    "quantity": 1,
+    "category":"appetizers"
+  },
+  {
+    "id": 2,
+    "name": "VEGAN MINI TORTILLA WRAPS",
+    "icon": "/newimages/VEGANMINITORTILLAWRAPS.jpg",
+    "price": 460,
+    "quantity": 1,
+    "category":"appetizers"
+  },
+  {
+    "id": 3,
+    "name": "TOMATO MOZZARELLA BRUSCHETTA",
+    "icon": "/newimages/TOMATOMOZZARELLABRUSCHETTA.jpg",
+    "price": 490,
+    "quantity": 1,
+    "category":"appetizers"
+  },
+  {
+    "id": 4,
+    "name": "AGLIO OLIO ASPARAGUS",
+    "icon": "/newimages/AGLIOOLIOASPARAGUS.jpg",
+    "price": 590,
+    "quantity": 1,
+    "category":"appetizers"
+  },
+  {
+    "id": 5,
+    "name": "ROASTED MUSHROOM",
+    "icon": "/newimages/ROASTEDMUSHROOM.jpg",
+    "price": 540,
+    "quantity": 1,
+    "category":"appetizers"
+  },
+  {
+    "id": 0,
+    "name": "ARRABBIATA",
+    "icon": "/newimages/ARRABBIATA.jpg",
+    "price": 459,
+    "quantity": 1,
+    "category":"pasta"
+  },
+  {
+    "id": 1,
+    "name": "ALFREDO",
+    "icon": "/newimages/ALFREDO.jpg",
+    "price": 410,
+    "quantity": 1,
+    "category":"pasta"
+  },
+  {
+    "id": 2,
+    "name": "PESTO",
+    "icon": "/newimages/PESTO.jpg",
+    "price": 460,
+    "quantity": 1,
+    "category":"pasta"
+  },
+  {
+    "id": 3,
+    "name": "LASAGNE",
+    "icon": "/newimages/LASAGNE.jpg",
+    "price": 490,
+    "quantity": 1,
+    "category":"pasta"
+  },
+  {
+    "id": 4,
+    "name": "RISOTTO",
+    "icon": "/newimages/RISOTTO.jpg",
+    "price": 590,
+    "quantity": 1,
+    "category":"pasta"
+  },
+  {
+    "id": 5,
+    "name": "RAVIOLI",
+    "icon": "/newimages/RAVIOLI.jpg",
+    "price": 540,
+    "quantity": 1,
+    "category":"pasta"
+  },
+  {
+    "id": 0,
+    "name": "TABASCO",
+    "icon": "/newimages/TABASCO.jpg",
+    "price": 459,
+    "quantity": 1,
+    "category":"pizza"
+  },
+  {
+    "id": 1,
+    "name": "SICILIA",
+    "icon": "/newimages/SICILIA.jpg",
+    "price": 410,
+    "quantity": 1,
+    "category":"pizza"
+  },
+  {
+    "id": 2,
+    "name": "PESTO PIZZA",
+    "icon": "/newimages/PESTOPIZZA.jpg",
+    "price": 460,
+    "quantity": 1,
+    "category":"pizza"
+  },
+  {
+    "id": 3,
+    "name": "PIZZA NAPOLI",
+    "icon": "/newimages/PIZZANAPOLI.jpg",
+    "price": 490,
+    "quantity": 1,
+    "category":"pizza"
+  },
+  {
+    "id": 4,
+    "name": "PIZZA TARTUFFI",
+    "icon": "/newimages/PIZZATARTUFFI.jpg",
+    "price": 590,
+    "quantity": 1,
+    "category":"pizza"
+  },
+  {
+    "id": 5,
+    "name": "BBQ PIZZA",
+    "icon": "/newimages/BBQPIZZA.jpg",
+    "price": 540,
+    "quantity": 1,
+    "category":"pizza"
+  },
+  {
+    "id": 0,
+    "name": "SIZZLING CHOCOLATE WALNUT BROWNIE",
+    "icon": "/newimages/SIZZLINGCHOCOLATEWALNUTBROWNIE.jpg",
+    "price": 459,
+    "quantity": 1,
+    "category":"dessert"
+  },
+  {
+    "id": 1,
+    "name": "CHOCOLATE MOUSSE CAKE",
+    "icon": "/newimages/CHOCOLATEMOUSSECAKE.jpg",
+    "price": 410,
+    "quantity": 1,
+    "category":"dessert"
+  },
+  {
+    "id": 2,
+    "name": "CHOCOLATE BOMB",
+    "icon": "/newimages/CHOCOLATEBOMB.jpg",
+    "price": 460,
+    "quantity": 1,
+    "category":"dessert"
+  },
+  {
+    "id": 0,
+    "name": "ZIP ZIP",
+    "icon": "/newimages/ZIPZIP.jpg",
+    "price": 490,
+    "quantity": 1,
+    "category":"drinks"
+  },
+  {
+    "id": 1,
+    "name": "CONCLAVE",
+    "icon": "/newimages/CONCLAVE.jpg",
+    "price": 590,
+    "quantity": 1,
+    "category":"drinks"
+  },
+  {
+    "id": 2,
+    "name": "SILK STOCKING",
+    "icon": "/newimages/SILKSTOCKING.jpg",
+    "price": 540,
+    "quantity": 1,
+    "category":"drinks"
+  },
+  {
+    "id": 3,
+    "name": "PINK DWARF",
+    "icon": "/newimages/PINKDWARF.jpg",
+    "price": 459,
+    "quantity": 1,
+    "category":"drinks"
+  },
+  {
+    "id": 4,
+    "name": "ORIENT EXPRESS",
+    "icon": "/newimages/ORIENTEXPRESS.jpg",
+    "price": 410,
+    "quantity": 1,
+    "category":"drinks"
+  },
+  {
+    "id": 5,
+    "name": "CHILLER",
+    "icon": "/newimages/CHILLER.jpg",
+    "price": 460,
+    "quantity": 1,
+    "category":"drinks"
+  }
+]
